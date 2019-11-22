@@ -1,0 +1,12 @@
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\bin\Debug\GeradorClasseModel.exe.config
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\bin\Debug\GeradorClasseModel.exe
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\bin\Debug\GeradorClasseModel.pdb
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.FormGerador.resources
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.Properties.Resources.resources
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.csproj.CopyComplete
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.exe
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.pdb
+C:\Users\felip\source\repos\GeradorClasseModel\GeradorClasseModel\obj\Debug\GeradorClasseModel.csprojAssemblyReference.cache

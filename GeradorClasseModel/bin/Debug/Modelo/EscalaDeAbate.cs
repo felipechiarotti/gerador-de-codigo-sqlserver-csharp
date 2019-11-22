@@ -1,0 +1,71 @@
+namespace aa 
+{ 
+	public class EscalaDeAbate  
+	{ 
+		public int ID { get; set; } 
+		public string IDDaFilial { get; set; } 
+		public string IDDoDocumento { get; set; } 
+		public string Serie { get; set; } 
+		public int Numero { get; set; } 
+		public int NumeroDoLote { get; set; } 
+		public string NumeroLoteAbate { get; set; } 
+		public string NumeroDoManejo { get; set; } 
+		public string ChaveDeFatoSisbov { get; set; } 
+		public string Raca { get; set; } 
+		public string Maturidade { get; set; } 
+		public int Quantidade { get; set; } 
+		public decimal Peso { get; set; } 
+		public int SequenciaCabeca { get; set; } 
+		public DateTime DataAbate { get; set; } 
+		public DateTime DataMovimentacao { get; set; } 
+		public string CodigoDaUnidadePrimaria { get; set; } 
+		public string CodigoDaUnidadeAuxiliar { get; set; } 
+		public string IDDoProduto { get; set; } 
+		public string IDDaReferencia { get; set; } 
+		public string DescricaoDoProduto { get; set; } 
+		public string MercadosHabilitados { get; set; } 
+		public string MercadoPrincipal { get; set; } 
+		public string DescricaoMercado { get; set; } 
+		public string ImprimeResumo { get; set; } 
+		public string NumeroDoCurral { get; set; } 
+		public string HoraInicial { get; set; } 
+		public string HoraFinal { get; set; } 
+		public string TipoAnimal { get; set; } 
+		public int IDDaPropriedadeRural { get; set; } 
+		public string NomeDaPropriedadeRural { get; set; } 
+		public string IDDoMunicipio { get; set; } 
+		public string NomeDoMunicipio { get; set; } 
+		public string UF { get; set; } 
+		public decimal QuantidadeDeBois { get; set; } 
+		public decimal QuantidadeDeBufalos { get; set; } 
+		public decimal QuantidadeDeTouros { get; set; } 
+		public decimal QuantidadeDeCarneiros { get; set; } 
+		public decimal QuantidadeDeVacas { get; set; } 
+		public decimal QuantidadeDeBubalinas { get; set; } 
+		public decimal QuantidadeDeVitelos { get; set; } 
+		public string MeioDeTransporte { get; set; } 
+		public string AtestadoSanitario { get; set; } 
+		public string Sexo { get; set; } 
+		public string IDDoPecuarista { get; set; } 
+		public string NomeDoPecuarista { get; set; } 
+		public int SequenciaContrato { get; set; } 
+		public string ApelidoDoPecuarista { get; set; } 
+		public string ApelidoDaPropriedadeRural { get; set; } 
+		public DateTime DataDeEntrada { get; set; } 
+		public int QuantidadeRomaneada { get; set; } 
+		public int UltimaSequenciaRomaneada { get; set; } 
+		public int QuantidadeMacho { get; set; } 
+		public int QuantidadeFemea { get; set; } 
+		public int QuantidadeMachoRomaneada { get; set; } 
+		public int QuantidadeFemeaRomaneada { get; set; } 
+		public string ChaveFatoRAA { get; set; } 
+		public string DocumentoRAA { get; set; } 
+		public string LoteDoItem { get; set; } 
+		public string ChaveFatoAnimalMorto { get; set; } 
+		public string ChaveRomaneioAbateAnimal { get; set; } 
+		public string DocumentoRomaneioAbateAnimal { get; set; } 
+		public int AbatePerfilLinhaDeProducao { get; set; } 
+		public string RomaneioStatusContabil { get; set; } 
+		public int NumeroItem { get; set; } 
+	} 
+}
